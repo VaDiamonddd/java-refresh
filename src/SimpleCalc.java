@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public abstract class SimpleCalc {
+public class SimpleCalc {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         System.out.println("Please enter two numbers and operation you want to use.");
