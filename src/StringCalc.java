@@ -17,6 +17,6 @@ public class StringCalc {
                 brIndices.add(i);
             }
         }
-        
+        System.out.println(openingOperBr);
     }
 }
